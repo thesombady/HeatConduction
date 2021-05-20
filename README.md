@@ -7,3 +7,6 @@ In this computational experiment, one investigates the heat-transfers in a one-d
 Moverover, one also generalizes this to two dimension. This was then tested with a astroid impact on the surface of the earth; Results are viewable in the code, but also a .gif file is the repository.
 ## Disclaimer
 As this is a computational experiment, some things might be flawed; The problem I sought to solve was computational-time.
+
+## License
+This project is subjected to an "MIT"-license, and hence by using this you're required to reference.
